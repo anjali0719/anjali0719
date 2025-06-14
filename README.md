@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=anjali0719&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/anjali-singh-449a36251) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anjali-singh-449a36251) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
